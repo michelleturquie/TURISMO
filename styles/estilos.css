@@ -1,0 +1,71 @@
+h1 {
+	font-family: "Fantasy", Snell Roundhand, cursive; 
+	font-size: 20px;
+	background-color:rgba(255, 99, 71, 0.5);
+	background-color:hsla(9, 100%, 64%, 0.3);
+
+}
+
+h2 {
+
+        font-family: "Fantasy", Snell Roundhand, cursive; 
+        font-size: 17px;
+
+}
+
+audio {
+
+  display: flex;
+  top: 20000px;
+  left: 50px;
+  width: 24%;
+
+}
+
+
+.fotos {
+
+        width: 300px
+
+}
+
+ .right1 {
+
+        position: absolute;
+        right: 800px;
+        width: 200px;
+        border: 5px solid #d77aa4;
+        padding: 10px;
+
+}
+
+ .right2 {
+
+        position: absolute;
+        right: 550px;
+        width: 200px;
+        border: 5px solid #d77aa4;
+        padding: 10px;
+
+}
+
+.right3 {
+
+        position: absolute;
+        right: 300px;
+        width: 200px;
+        border: 5px solid #d77aa4;
+        padding: 10px;
+
+}
+
+
+.right4 {
+
+        position: absolute;
+        right: 50px;
+        width: 200px;
+        border: 5px solid #d77aa4;
+        padding: 10px;
+
+}
